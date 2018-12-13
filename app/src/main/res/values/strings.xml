@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FoodApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="data_food">Data Food</string>
+    <string name="loading">Loading . . .</string>
+    <string name="confir">Confirmation</string>
+    <string name="sure">Are You Sure for?</string>
+    <string name="error_message">Tidak Boleh Kosong</string>
+    <string name="error_message_nohp">Minimal 10 angka!</string>
+    <string name="error_message_password">Minimal 6 angka/huruf</string>
+    <string name="error_message_conpassword">Inputan password tidak sesuai</string>
+    <string name="loading_data">Loading...</string>
+    <string name="noimages">Image Tidak Boldeh Kosong</string>
+</resources>
